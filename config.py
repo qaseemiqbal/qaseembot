@@ -1,0 +1,3 @@
+WEBHOOK_PASS="letsmakethisourpassword"
+API_KEY="BpKCfUiCLoDj0SuLcLmKqpenmvLpu4Rk7RHnW2xHJU9ik9mN8WUQZb4nsg0yDbTu"
+API_SECRET="U1HxoxdeaX8syDSrZMcuu0SLReerK8VZvaZ4OD3KDsX7PMlixd8W5fa7Q7XDbhM8"
